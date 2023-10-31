@@ -1,7 +1,7 @@
 {
 "data": [
     {
-        "weekPeriod": "01/21 - 02/18/2023",
+        "weekPeriod": "01/22 - 02/18/2023",
         "socDate": "2023-01-22",
         "patient": "KANTOR YAKOV",
         "insurance": "Medicare_Plan",
@@ -11,7 +11,7 @@
         "status": "Admitted"
     },
     {
-        "weekPeriod": "01/21 - 02/18/2023",
+        "weekPeriod": "01/22 - 02/18/2023",
         "patient": "MOORE TANDY",
         "insurance": "Medicare_Plan",
         "referralSource": "Encompass HH",
@@ -21,7 +21,7 @@
         "naReason": "Outside of Service Area"
     },
     {
-        "weekPeriod": "01/21 - 02/18/2023",
+        "weekPeriod": "01/22 - 02/18/2023",
         "patient": "CARSWELL MARION",
         "insurance": "Medicare_Plan",
         "referralSource": "Kindred Hospital - North Florida/Kindred Healthcare Inc.",
@@ -31,7 +31,7 @@
         "naReason": "Outside of Service Area"
     },
     {
-        "weekPeriod": "01/21 - 02/18/2023",
+        "weekPeriod": "01/22 - 02/18/2023",
         "socDate": "2023-01-26",
         "patient": "ESKRIDGE III FRANK",
         "insurance": "Medicare_Plan",
@@ -41,7 +41,7 @@
         "status": "Admitted"
     },
     {
-        "weekPeriod": "01/21 - 02/18/2023",
+        "weekPeriod": "01/22 - 02/18/2023",
         "socDate": "2023-01-27",
         "patient": "KARPF CHARLES",
         "insurance": "Medicare_Plan",
@@ -51,7 +51,7 @@
         "status": "Admitted"
     },
     {
-        "weekPeriod": "01/21 - 02/18/2023",
+        "weekPeriod": "01/22 - 02/18/2023",
         "socDate": "2023-02-03",
         "patient": "SIDES MARTHA",
         "insurance": "Medicare_Plan",
@@ -61,7 +61,7 @@
         "status": "Admitted"
     },
     {
-        "weekPeriod": "01/21 - 02/18/2023",
+        "weekPeriod": "01/22 - 02/18/2023",
         "socDate": "2023-02-13",
         "patient": "PATTERSON MARGARET",
         "insurance": "Medicare_Plan",
@@ -71,7 +71,7 @@
         "status": "Admitted"
     },
     {
-        "weekPeriod": "01/21 - 02/18/2023",
+        "weekPeriod": "01/22 - 02/18/2023",
         "socDate": "2023-02-16",
         "patient": "ZAJDEL BONITA",
         "insurance": "Medicare_Plan",
@@ -81,7 +81,7 @@
         "status": "Admitted"
     },
     {
-        "weekPeriod": "01/21 - 02/18/2023",
+        "weekPeriod": "01/22 - 02/18/2023",
         "patient": "PATANIAN JOHN",
         "insurance": "Medicare_Plan",
         "referralSource": "Wellstar Primary Care Healthcare Associates",
@@ -91,7 +91,7 @@
         "naReason": "Refused Services"
     },
     {
-        "weekPeriod": "01/21 - 02/18/2023",
+        "weekPeriod": "01/22 - 02/18/2023",
         "socDate": "2023-02-01",
         "patient": "HAWKINS WAYNE",
         "insurance": "Medicare_Plan",
@@ -102,7 +102,7 @@
         "naReason": "Under another Level of Care"
     },
     {
-        "weekPeriod": "01/21 - 02/18/2023",
+        "weekPeriod": "01/22 - 02/18/2023",
         "patient": "JONES ANITA",
         "insurance": "Medicare_Plan",
         "referralSource": "Wellstar Primary Care Tower Road",
@@ -112,7 +112,7 @@
         "naReason": "Refused Services"
     },
     {
-        "weekPeriod": "01/21 - 02/18/2023",
+        "weekPeriod": "01/22 - 02/18/2023",
         "patient": "QUATTLEBAUM DOROTHY",
         "insurance": "Medicare_Plan",
         "referralSource": "Wellstar Internal Medicine Austell",
@@ -122,7 +122,7 @@
         "naReason": "Patient Passed Away"
     },
     {
-        "weekPeriod": "01/21 - 02/18/2023",
+        "weekPeriod": "01/22 - 02/18/2023",
         "socDate": "2023-01-25",
         "patient": "SCOGGINS MARK",
         "insurance": "Medicare_Plan",
@@ -132,7 +132,7 @@
         "status": "Admitted"
     },
     {
-        "weekPeriod": "01/21 - 02/18/2023",
+        "weekPeriod": "01/22 - 02/18/2023",
         "socDate": "2023-01-26",
         "patient": "GOKHMAN MIKHAIL",
         "insurance": "Medicare_Plan",
@@ -142,7 +142,7 @@
         "status": "Admitted"
     },
     {
-        "weekPeriod": "01/21 - 02/18/2023",
+        "weekPeriod": "01/22 - 02/18/2023",
         "socDate": "2023-01-27",
         "patient": "WALSH JAMES",
         "insurance": "Medicare_Plan",
@@ -152,7 +152,7 @@
         "status": "Admitted"
     },
     {
-        "weekPeriod": "01/21 - 02/18/2023",
+        "weekPeriod": "01/22 - 02/18/2023",
         "socDate": "2023-01-31",
         "patient": "MAISEL REBECCA",
         "insurance": "Medicare_Plan",
@@ -162,7 +162,7 @@
         "status": "Admitted"
     },
     {
-        "weekPeriod": "01/21 - 02/18/2023",
+        "weekPeriod": "01/22 - 02/18/2023",
         "socDate": "2023-02-01",
         "patient": "VITEBSKAYA NINA",
         "insurance": "Medicare_Plan",
@@ -172,7 +172,7 @@
         "status": "Admitted"
     },
     {
-        "weekPeriod": "01/21 - 02/18/2023",
+        "weekPeriod": "01/22 - 02/18/2023",
         "socDate": "2023-02-01",
         "patient": "BEGUM SYEDA",
         "insurance": "Medicare_Plan",
@@ -182,7 +182,7 @@
         "status": "Admitted"
     },
     {
-        "weekPeriod": "01/21 - 02/18/2023",
+        "weekPeriod": "01/22 - 02/18/2023",
         "socDate": "2023-02-01",
         "patient": "HAYES KENNETH",
         "insurance": "Medicare_Plan",
@@ -192,7 +192,7 @@
         "status": "Admitted"
     },
     {
-        "weekPeriod": "01/21 - 02/18/2023",
+        "weekPeriod": "01/22 - 02/18/2023",
         "socDate": "2023-02-02",
         "patient": "MESLER DIXIE",
         "insurance": "Medicare_Plan",
@@ -202,7 +202,7 @@
         "status": "Admitted"
     },
     {
-        "weekPeriod": "01/21 - 02/18/2023",
+        "weekPeriod": "01/22 - 02/18/2023",
         "socDate": "2023-02-07",
         "patient": "MIKHAIL LENDA",
         "insurance": "Medicare_Plan",
@@ -212,7 +212,7 @@
         "status": "Admitted"
     },
     {
-        "weekPeriod": "01/21 - 02/18/2023",
+        "weekPeriod": "01/22 - 02/18/2023",
         "socDate": "2023-02-07",
         "patient": "BRANTS MARK",
         "insurance": "Medicare_Plan",
@@ -222,7 +222,7 @@
         "status": "Admitted"
     },
     {
-        "weekPeriod": "01/21 - 02/18/2023",
+        "weekPeriod": "01/22 - 02/18/2023",
         "socDate": "2023-02-16",
         "patient": "PATTERSON JOYCE E",
         "insurance": "Medicare_Plan",
@@ -232,7 +232,7 @@
         "status": "Admitted"
     },
     {
-        "weekPeriod": "01/21 - 02/18/2023",
+        "weekPeriod": "01/22 - 02/18/2023",
         "socDate": "2023-01-25",
         "patient": "JOHNSON GARY C",
         "insurance": "Medicare_Plan",
@@ -243,7 +243,7 @@
         "naReason": "Being Served by Another HHA"
     },
     {
-        "weekPeriod": "01/21 - 02/18/2023",
+        "weekPeriod": "01/22 - 02/18/2023",
         "patient": "TAYLOR JAMES B",
         "insurance": "Medicare_Plan",
         "referralSource": "1st Care Management",
@@ -253,7 +253,7 @@
         "naReason": "Canceled by Referral Source"
     },
     {
-        "weekPeriod": "01/21 - 02/18/2023",
+        "weekPeriod": "01/22 - 02/18/2023",
         "patient": "COOK KATHLEEN",
         "insurance": "Medicare_Plan",
         "referralSource": "Wellstar North Fulton Hospital",
@@ -263,7 +263,7 @@
         "naReason": "Canceled by Referral Source"
     },
     {
-        "weekPeriod": "01/21 - 02/18/2023",
+        "weekPeriod": "01/22 - 02/18/2023",
         "patient": "LONER NORVA",
         "insurance": "Medicare_Plan",
         "referralSource": "Wellstar North Fulton Hospital",
@@ -273,7 +273,7 @@
         "naReason": "Outside of Service Area"
     },
     {
-        "weekPeriod": "01/21 - 02/18/2023",
+        "weekPeriod": "01/22 - 02/18/2023",
         "socDate": "2023-01-27",
         "patient": "BRKOVIC MIRALEM",
         "insurance": "Medicare_Plan",
@@ -284,7 +284,7 @@
         "naReason": "Refused Services"
     },
     {
-        "weekPeriod": "01/21 - 02/18/2023",
+        "weekPeriod": "01/22 - 02/18/2023",
         "patient": "IMHOFF VINCENZA",
         "insurance": "Medicare_Plan",
         "referralSource": "Wellstar North Fulton Hospital",
@@ -294,7 +294,7 @@
         "naReason": "Refused Services"
     },
     {
-        "weekPeriod": "01/21 - 02/18/2023",
+        "weekPeriod": "01/22 - 02/18/2023",
         "patient": "PICKERING LESLIE",
         "insurance": "Medicare_Plan",
         "referralSource": "Emory Saint Joseph's Hospital",
@@ -304,7 +304,7 @@
         "naReason": "Being Served by Another HHA"
     },
     {
-        "weekPeriod": "01/21 - 02/18/2023",
+        "weekPeriod": "01/22 - 02/18/2023",
         "patient": "TILLMON LATASHA",
         "insurance": "Medicare_Plan",
         "referralSource": "Emory Saint Joseph's Hospital",
@@ -314,7 +314,7 @@
         "naReason": "Under another Level of Care"
     },
     {
-        "weekPeriod": "01/21 - 02/18/2023",
+        "weekPeriod": "01/22 - 02/18/2023",
         "patient": "FULLER GREGORY",
         "insurance": "Medicare_Plan",
         "referralSource": "Emory Saint Joseph's Hospital",
@@ -324,7 +324,7 @@
         "naReason": "Outside of Service Area"
     },
     {
-        "weekPeriod": "01/21 - 02/18/2023",
+        "weekPeriod": "01/22 - 02/18/2023",
         "patient": "MCCARTHY ELIZABETH",
         "insurance": "Medicare_Plan",
         "referralSource": "Emory Saint Joseph's Hospital",
@@ -334,7 +334,7 @@
         "naReason": "Under another Level of Care"
     },
     {
-        "weekPeriod": "01/21 - 02/18/2023",
+        "weekPeriod": "01/22 - 02/18/2023",
         "patient": "HALL PEARL",
         "insurance": "Medicare_Plan",
         "referralSource": "1st Care Management",
@@ -344,7 +344,7 @@
         "naReason": "Unable to Contact"
     },
     {
-        "weekPeriod": "01/21 - 02/18/2023",
+        "weekPeriod": "01/22 - 02/18/2023",
         "socDate": "2023-01-23",
         "patient": "DURHAM BOBBY",
         "insurance": "VA - Optum_Plan",
@@ -354,7 +354,7 @@
         "status": "Admitted"
     },
     {
-        "weekPeriod": "01/21 - 02/18/2023",
+        "weekPeriod": "01/22 - 02/18/2023",
         "socDate": "2023-01-26",
         "patient": "RICKS CHARLES",
         "insurance": "Medicare_Plan",
@@ -364,7 +364,7 @@
         "status": "Admitted"
     },
     {
-        "weekPeriod": "01/21 - 02/18/2023",
+        "weekPeriod": "01/22 - 02/18/2023",
         "socDate": "2023-01-26",
         "patient": "HALL PEARL",
         "insurance": "Medicare_Plan",
@@ -374,7 +374,7 @@
         "status": "Admitted"
     },
     {
-        "weekPeriod": "01/21 - 02/18/2023",
+        "weekPeriod": "01/22 - 02/18/2023",
         "socDate": "2023-01-28",
         "patient": "AUSTIN TYRAN",
         "insurance": "VA - Optum_Plan",
@@ -384,7 +384,7 @@
         "status": "Admitted"
     },
     {
-        "weekPeriod": "01/21 - 02/18/2023",
+        "weekPeriod": "01/22 - 02/18/2023",
         "socDate": "2023-01-27",
         "patient": "JELKS WALTER",
         "insurance": "VA - Optum_Plan",
@@ -394,7 +394,7 @@
         "status": "Admitted"
     },
     {
-        "weekPeriod": "01/21 - 02/18/2023",
+        "weekPeriod": "01/22 - 02/18/2023",
         "socDate": "2023-01-31",
         "patient": "HARVEY HENRY",
         "insurance": "VA - Optum_Plan",
@@ -404,7 +404,7 @@
         "status": "Admitted"
     },
     {
-        "weekPeriod": "01/21 - 02/18/2023",
+        "weekPeriod": "01/22 - 02/18/2023",
         "socDate": "2023-02-01",
         "patient": "SMITH CHARLES 02/26/1951",
         "insurance": "Medicare_Plan",
@@ -414,7 +414,7 @@
         "status": "Admitted"
     },
     {
-        "weekPeriod": "01/21 - 02/18/2023",
+        "weekPeriod": "01/22 - 02/18/2023",
         "socDate": "2023-02-01",
         "patient": "SMALL WILLIAM",
         "insurance": "VA - Optum_Plan",
@@ -424,7 +424,7 @@
         "status": "Admitted"
     },
     {
-        "weekPeriod": "01/21 - 02/18/2023",
+        "weekPeriod": "01/22 - 02/18/2023",
         "socDate": "2023-02-02",
         "patient": "REID MARSHALL",
         "insurance": "VA - Optum_Plan",
@@ -434,7 +434,7 @@
         "status": "Admitted"
     },
     {
-        "weekPeriod": "01/21 - 02/18/2023",
+        "weekPeriod": "01/22 - 02/18/2023",
         "socDate": "2023-02-06",
         "patient": "HARRIS LARRY 07/22/1948",
         "insurance": "VA - Optum_Plan",
@@ -444,7 +444,7 @@
         "status": "Admitted"
     },
     {
-        "weekPeriod": "01/21 - 02/18/2023",
+        "weekPeriod": "01/22 - 02/18/2023",
         "socDate": "2023-02-07",
         "patient": "WILLIAMS CONSTANCE",
         "insurance": "VA - Optum_Plan",
@@ -454,7 +454,7 @@
         "status": "Admitted"
     },
     {
-        "weekPeriod": "01/21 - 02/18/2023",
+        "weekPeriod": "01/22 - 02/18/2023",
         "socDate": "2023-02-07",
         "patient": "SMITH JOSEPH 03/13/1950",
         "insurance": "Medicare_Plan",
@@ -464,7 +464,7 @@
         "status": "Admitted"
     },
     {
-        "weekPeriod": "01/21 - 02/18/2023",
+        "weekPeriod": "01/22 - 02/18/2023",
         "socDate": "2023-02-08",
         "patient": "JOSEPH PATRICIA",
         "insurance": "VA - Optum_Plan",
@@ -474,7 +474,7 @@
         "status": "Admitted"
     },
     {
-        "weekPeriod": "01/21 - 02/18/2023",
+        "weekPeriod": "01/22 - 02/18/2023",
         "socDate": "2023-02-04",
         "patient": "DOW CAROL",
         "insurance": "Medicare_Plan",
@@ -484,7 +484,7 @@
         "status": "Admitted"
     },
     {
-        "weekPeriod": "01/21 - 02/18/2023",
+        "weekPeriod": "01/22 - 02/18/2023",
         "socDate": "2023-02-02",
         "patient": "NICHOLS JR TIMOTHY",
         "insurance": "VA - Optum_Plan",
@@ -494,7 +494,7 @@
         "status": "Admitted"
     },
     {
-        "weekPeriod": "01/21 - 02/18/2023",
+        "weekPeriod": "01/22 - 02/18/2023",
         "socDate": "2023-02-10",
         "patient": "SMITH DAVID L",
         "insurance": "VA - Optum_Plan",
@@ -504,7 +504,7 @@
         "status": "Admitted"
     },
     {
-        "weekPeriod": "01/21 - 02/18/2023",
+        "weekPeriod": "01/22 - 02/18/2023",
         "socDate": "2023-02-10",
         "patient": "SMITH GEORGE",
         "insurance": "VA - Optum_Plan",
@@ -514,7 +514,7 @@
         "status": "Admitted"
     },
     {
-        "weekPeriod": "01/21 - 02/18/2023",
+        "weekPeriod": "01/22 - 02/18/2023",
         "socDate": "2023-02-10",
         "patient": "SHELL THOMAS",
         "insurance": "VA - Optum_Plan",
@@ -524,7 +524,7 @@
         "status": "Admitted"
     },
     {
-        "weekPeriod": "01/21 - 02/18/2023",
+        "weekPeriod": "01/22 - 02/18/2023",
         "socDate": "2023-01-26",
         "patient": "MUHAMMAD SETH",
         "insurance": "VA - Optum_Plan",
@@ -535,7 +535,7 @@
         "naReason": "Under another Level of Care"
     },
     {
-        "weekPeriod": "01/21 - 02/18/2023",
+        "weekPeriod": "01/22 - 02/18/2023",
         "patient": "HAMMONDS WYMON",
         "insurance": "Medicare_Plan",
         "referralSource": "VA Medical Center",
@@ -545,7 +545,7 @@
         "naReason": "Unable to Contact"
     },
     {
-        "weekPeriod": "01/21 - 02/18/2023",
+        "weekPeriod": "01/22 - 02/18/2023",
         "patient": "KIRK PAUL",
         "insurance": "Medicare_Plan",
         "referralSource": "Emory University Hospital",
@@ -555,7 +555,7 @@
         "naReason": "Refused Services"
     },
     {
-        "weekPeriod": "01/21 - 02/18/2023",
+        "weekPeriod": "01/22 - 02/18/2023",
         "socDate": "2023-02-04",
         "patient": "WELCH ELIZABETH",
         "insurance": "Medicare_Plan",
@@ -566,7 +566,7 @@
         "naReason": "Being Served by Another HHA"
     },
     {
-        "weekPeriod": "01/21 - 02/18/2023",
+        "weekPeriod": "01/22 - 02/18/2023",
         "patient": "SHIELDS CORNELIA",
         "insurance": "VA - Optum_Plan",
         "referralSource": "VA Medical Center",
@@ -576,7 +576,7 @@
         "naReason": "Incomplete Referral"
     },
     {
-        "weekPeriod": "01/21 - 02/18/2023",
+        "weekPeriod": "01/22 - 02/18/2023",
         "patient": "FLOURNOY HUBERT",
         "insurance": "Medicare_Plan",
         "referralSource": "VA Medical Center",
@@ -586,7 +586,7 @@
         "naReason": "Being Served by Another HHA"
     },
     {
-        "weekPeriod": "01/21 - 02/18/2023",
+        "weekPeriod": "01/22 - 02/18/2023",
         "socDate": "2023-02-10",
         "patient": "EPPS MICHAEL",
         "insurance": "Medicare_Plan",
@@ -597,7 +597,7 @@
         "naReason": "Being Served by Another HHA"
     },
     {
-        "weekPeriod": "01/21 - 02/18/2023",
+        "weekPeriod": "01/22 - 02/18/2023",
         "patient": "MOHAMED DOWLAY",
         "insurance": "Medicare_Plan",
         "referralSource": "Harborview Decatur LLC",
@@ -607,7 +607,7 @@
         "naReason": "Unable to Contact"
     },
     {
-        "weekPeriod": "01/21 - 02/18/2023",
+        "weekPeriod": "01/22 - 02/18/2023",
         "patient": "HAMBRICK ADRIENNE",
         "insurance": "VA - Optum_Plan",
         "referralSource": "VA Medical Center",
@@ -617,7 +617,7 @@
         "naReason": "Refused Services"
     },
     {
-        "weekPeriod": "01/21 - 02/18/2023",
+        "weekPeriod": "01/22 - 02/18/2023",
         "socDate": "2023-01-22",
         "patient": "EVANS JESSICA",
         "insurance": "Medicare_Plan",
@@ -627,7 +627,7 @@
         "status": "Admitted"
     },
     {
-        "weekPeriod": "01/21 - 02/18/2023",
+        "weekPeriod": "01/22 - 02/18/2023",
         "socDate": "2023-02-03",
         "patient": "ROBINSON RICKY",
         "insurance": "Medicare_Plan",
@@ -637,7 +637,7 @@
         "status": "Admitted"
     },
     {
-        "weekPeriod": "01/21 - 02/18/2023",
+        "weekPeriod": "01/22 - 02/18/2023",
         "socDate": "2023-02-10",
         "patient": "COPELAND CHARLIE",
         "insurance": "Medicare_Plan",
@@ -647,7 +647,7 @@
         "status": "Admitted"
     },
     {
-        "weekPeriod": "01/21 - 02/18/2023",
+        "weekPeriod": "01/22 - 02/18/2023",
         "socDate": "2023-02-13",
         "patient": "PATTERSON BAILEY MARGARET",
         "insurance": "Medicare_Plan",
@@ -657,7 +657,7 @@
         "status": "Admitted"
     },
     {
-        "weekPeriod": "01/21 - 02/18/2023",
+        "weekPeriod": "01/22 - 02/18/2023",
         "socDate": "2023-02-14",
         "patient": "PERRY VERONICA",
         "insurance": "Medicare_Plan",
@@ -667,7 +667,7 @@
         "status": "Admitted"
     },
     {
-        "weekPeriod": "01/21 - 02/18/2023",
+        "weekPeriod": "01/22 - 02/18/2023",
         "socDate": "2023-02-17",
         "patient": "BUSH WILLIE D",
         "insurance": "Medicare_Plan",
@@ -677,7 +677,7 @@
         "status": "Admitted"
     },
     {
-        "weekPeriod": "01/21 - 02/18/2023",
+        "weekPeriod": "01/22 - 02/18/2023",
         "socDate": "2023-01-20",
         "patient": "GOYAL SURINDER",
         "insurance": "Medicare_Plan",
@@ -688,7 +688,7 @@
         "naReason": "Under another Level of Care"
     },
     {
-        "weekPeriod": "01/21 - 02/18/2023",
+        "weekPeriod": "01/22 - 02/18/2023",
         "patient": "DRISKELL RONALD",
         "insurance": "Medicare_Plan",
         "referralSource": "Grady Hospital",
@@ -698,7 +698,7 @@
         "naReason": "Being Served by Another HHA"
     },
     {
-        "weekPeriod": "01/21 - 02/18/2023",
+        "weekPeriod": "01/22 - 02/18/2023",
         "patient": "COPELAND CHARLIE",
         "insurance": "Medicare_Plan",
         "referralSource": "M. Daniel Byrd M.D",
@@ -708,7 +708,7 @@
         "naReason": "Staffing Capacity"
     },
     {
-        "weekPeriod": "01/21 - 02/18/2023",
+        "weekPeriod": "01/22 - 02/18/2023",
         "patient": "BEASLEY BUFORT",
         "insurance": "Medicare_Plan",
         "referralSource": "Christian City Rehab",
@@ -718,7 +718,7 @@
         "naReason": "Under another Level of Care"
     },
     {
-        "weekPeriod": "01/21 - 02/18/2023",
+        "weekPeriod": "01/22 - 02/18/2023",
         "patient": "JORDAN SHAWN",
         "insurance": "Medicare_Plan",
         "referralSource": "Piedmont Fayette Hospital",
@@ -728,7 +728,7 @@
         "naReason": "Outside of Service Area"
     },
     {
-        "weekPeriod": "01/21 - 02/18/2023",
+        "weekPeriod": "01/22 - 02/18/2023",
         "socDate": "2023-01-25",
         "patient": "BRUMBALOW TIMOTHY",
         "insurance": "Medicare_Plan",
@@ -739,7 +739,7 @@
         "naReason": "Being Served by Another HHA"
     },
     {
-        "weekPeriod": "01/21 - 02/18/2023",
+        "weekPeriod": "01/22 - 02/18/2023",
         "socDate": "2023-02-15",
         "patient": "RAKHMANOVA MINA",
         "insurance": "Medicare_Plan",
