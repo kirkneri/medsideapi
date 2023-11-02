@@ -29,6 +29,7 @@
                 <tr>
                   <td>${item.weekPeriod || ''}</td>
                   <td>${item.socDate || ''}</td>
+                  <td>${item.patient || ''}</td>
                   <td>${item.insurance || ''}</td>
                   <td>${item.referralSource || ''}</td>
                   <td>${item.referringPerson || ''}</td>
