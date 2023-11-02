@@ -49,136 +49,136 @@
          "anime":"Pokémon",
          "character":"Ash Ketchum",
          "quote":"I'm an apple for a day and I need a doctor right away..."
-      }
+      },
       {
-      "anime": "Naruto",
-      "character": "Naruto Uzumaki",
-      "quote": "Believe it!"
-    },
-    {
-      "anime": "Death Note",
-      "character": "Light Yagami",
-      "quote": "I am Justice!"
-    },
-    {
-      "anime": "Dragon Ball Z",
-      "character": "Vegeta",
-      "quote": "It's over 9000!"
-    },
-    {
-      "anime": "One Piece",
-      "character": "Monkey D. Luffy",
-      "quote": "I don't want to conquer anything. I just think the guy with the most freedom in this whole ocean... is the Pirate King!"
-    },
-    {
-      "anime": "Attack on Titan",
-      "character": "Eren Yeager",
-      "quote": "If you win, you live. If you lose, you die. If you don't fight, you can't win!"
-    },
-    {
-      "anime": "Serial Experiments Lain",
-      "character": "Lain Iwakura",
-      "quote": "The only way to deal with the past... is to put it in a strong metal box, or it will eat you alive."
-    },
-    {
-      "anime": "A Certain Magical Index",
-      "character": "Accelerator",
-      "quote": "I don't want to be a hero. I want to be a very, very bad man!"
-    },
-    {
-      "anime": "Kuroko's Basketball",
-      "character": "Riko Aida",
-      "quote": "No one knows what the future holds. That's why its potential is infinite."
-    },
-    {
-      "anime": "Claymore",
-      "character": "Clare",
-      "quote": "Even if I die, you keep living okay? Live to see the end of this world, and to see why it was born. Live to see why a weak girl like me ended up here... And the reason you and I met."
-    },
-    {
-      "anime": "Berserk",
-      "character": "Griffith",
-      "quote": "In this world, evil can arise from the best of intentions. And there is good which can come from evil intentions."
-    },
-    {
-      "anime": "Spice and Wolf",
-      "character": "Holo",
-      "quote": "There is no such thing as coincidence in this world. There is only necessity."
-    },
-    {
-      "anime": "Fate/stay night",
-      "character": "Shirou Emiya",
-      "quote": "People die if they are killed."
-    },
-    {
-      "anime": "Naruto",
-      "character": "Naruto Uzumaki",
-      "quote": "I'm not gonna run away, I never go back on my word! That's my nindo: my ninja way!"
-    },
-    {
-      "anime": "Code Geass",
-      "character": "C.C.",
-      "quote": "Don't beg for it. Earn it. Then it will be granted to you."
-    },
-    {
-      "anime": "Fullmetal Alchemist",
-      "character": "Edward Elric",
-      "quote": "A lesson without pain is meaningless. For you cannot gain something without sacrificing something else in return."
-    },
-    {
-      "anime": "Game of Thrones",
-      "character": "Daenerys Targaryen",
-      "quote": "I'm not gonna stop the wheel. I'm going to break the wheel."
-    },
-    {
-      "anime": "Naruto",
-      "character": "Hinata Hyuga",
-      "quote": "Sometimes people are just mean. Don't fight mean with mean. Hold your head high."
-    },
-    {
-      "anime": "Code Geass",
-      "character": "Lelouch Lamperouge",
-      "quote": "You have no idea how this world works, and that's why you're the one to change it."
-    },
-    {
-      "anime": "Fairy Tail",
-      "character": "Gildarts Clive",
-      "quote": "Fear is not evil. It tells you what your weakness is. And once you know your weakness, you can become stronger as well as kinder."
-    },
-    {
-      "anime": "Gintama",
-      "character": "Sakata Gintoki",
-      "quote": "If you've got time to fantasize about a beautiful death, why not live beautifully until the end."
-    },
-    {
-      "anime": "One Piece",
-      "character": "Brook",
-      "quote": "No matter how deep the night, it always turns to day, eventually."
-    },
-    {
-      "anime": "Trigun",
-      "character": "Vash the Stampede",
-      "quote": "I don't want the world to see me because I don't think that they'd understand."
-    },
-    {
-      "anime": "Naruto",
-      "character": "Naruto Uzumaki",
-      "quote": "It's not the face that makes someone a monster; it's the choices they make with their lives."
-    },
-    {
-      "anime": "Naruto",
-      "character": "Naruto Uzumaki",
-      "quote": "It's not the face that makes someone a monster; it's the choices they make with their lives."
-    },
-    {
-      "anime": "Cowboy Bebop",
-      "character": "Spike Spiegel",
-      "quote": "I have nothing to say to you, except... goodbye."
-    },
-    {
-      "anime": "Kuroko's Basketball",
-      "character": "Riko Aida",
-      "quote": "Nobody knows what the future holds. That's why its potential is infinite."
-    }
+         "anime":"Naruto",
+         "character":"Naruto Uzumaki",
+         "quote":"Believe it!"
+      },
+      {
+         "anime":"Death Note",
+         "character":"Light Yagami",
+         "quote":"I am Justice!"
+      },
+      {
+         "anime":"Dragon Ball Z",
+         "character":"Vegeta",
+         "quote":"It's over 9000!"
+      },
+      {
+         "anime":"One Piece",
+         "character":"Monkey D. Luffy",
+         "quote":"I don't want to conquer anything. I just think the guy with the most freedom in this whole ocean... is the Pirate King!"
+      },
+      {
+         "anime":"Attack on Titan",
+         "character":"Eren Yeager",
+         "quote":"If you win, you live. If you lose, you die. If you don't fight, you can't win!"
+      },
+      {
+         "anime":"Serial Experiments Lain",
+         "character":"Lain Iwakura",
+         "quote":"The only way to deal with the past... is to put it in a strong metal box, or it will eat you alive."
+      },
+      {
+         "anime":"A Certain Magical Index",
+         "character":"Accelerator",
+         "quote":"I don't want to be a hero. I want to be a very, very bad man!"
+      },
+      {
+         "anime":"Kuroko's Basketball",
+         "character":"Riko Aida",
+         "quote":"No one knows what the future holds. That's why its potential is infinite."
+      },
+      {
+         "anime":"Claymore",
+         "character":"Clare",
+         "quote":"Even if I die, you keep living okay? Live to see the end of this world, and to see why it was born. Live to see why a weak girl like me ended up here... And the reason you and I met."
+      },
+      {
+         "anime":"Berserk",
+         "character":"Griffith",
+         "quote":"In this world, evil can arise from the best of intentions. And there is good which can come from evil intentions."
+      },
+      {
+         "anime":"Spice and Wolf",
+         "character":"Holo",
+         "quote":"There is no such thing as coincidence in this world. There is only necessity."
+      },
+      {
+         "anime":"Fate/stay night",
+         "character":"Shirou Emiya",
+         "quote":"People die if they are killed."
+      },
+      {
+         "anime":"Naruto",
+         "character":"Naruto Uzumaki",
+         "quote":"I'm not gonna run away, I never go back on my word! That's my nindo: my ninja way!"
+      },
+      {
+         "anime":"Code Geass",
+         "character":"C.C.",
+         "quote":"Don't beg for it. Earn it. Then it will be granted to you."
+      },
+      {
+         "anime":"Fullmetal Alchemist",
+         "character":"Edward Elric",
+         "quote":"A lesson without pain is meaningless. For you cannot gain something without sacrificing something else in return."
+      },
+      {
+         "anime":"Game of Thrones",
+         "character":"Daenerys Targaryen",
+         "quote":"I'm not gonna stop the wheel. I'm going to break the wheel."
+      },
+      {
+         "anime":"Naruto",
+         "character":"Hinata Hyuga",
+         "quote":"Sometimes people are just mean. Don't fight mean with mean. Hold your head high."
+      },
+      {
+         "anime":"Code Geass",
+         "character":"Lelouch Lamperouge",
+         "quote":"You have no idea how this world works, and that's why you're the one to change it."
+      },
+      {
+         "anime":"Fairy Tail",
+         "character":"Gildarts Clive",
+         "quote":"Fear is not evil. It tells you what your weakness is. And once you know your weakness, you can become stronger as well as kinder."
+      },
+      {
+         "anime":"Gintama",
+         "character":"Sakata Gintoki",
+         "quote":"If you've got time to fantasize about a beautiful death, why not live beautifully until the end."
+      },
+      {
+         "anime":"One Piece",
+         "character":"Brook",
+         "quote":"No matter how deep the night, it always turns to day, eventually."
+      },
+      {
+         "anime":"Trigun",
+         "character":"Vash the Stampede",
+         "quote":"I don't want the world to see me because I don't think that they'd understand."
+      },
+      {
+         "anime":"Naruto",
+         "character":"Naruto Uzumaki",
+         "quote":"It's not the face that makes someone a monster; it's the choices they make with their lives."
+      },
+      {
+         "anime":"Naruto",
+         "character":"Naruto Uzumaki",
+         "quote":"It's not the face that makes someone a monster; it's the choices they make with their lives."
+      },
+      {
+         "anime":"Cowboy Bebop",
+         "character":"Spike Spiegel",
+         "quote":"I have nothing to say to you, except... goodbye."
+      },
+      {
+         "anime":"Kuroko's Basketball",
+         "character":"Riko Aida",
+         "quote":"Nobody knows what the future holds. That's why its potential is infinite."
+      }
    ]
 }
