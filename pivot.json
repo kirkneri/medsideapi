@@ -4051,7 +4051,7 @@
       },
       {
          "marketer":"Blake Bremer",
-         "referralSource":"wellstar primary care church street",
+         "referralSource":"Wellstar Primary Care Church Street",
          "weekPeriod":"10/29/2023 - 11/25/2023",
          "pendingSoc":1
       },
@@ -4059,7 +4059,7 @@
          "marketer":"Joseph Peters",
          "referralSource":"Emory Johns Creek Hospital",
          "weekPeriod":"10/29/2023 - 11/25/2023",
-         "processingInIntake":1
+         "pendingSoc":1
       },
       {
          "marketer":"Joseph Peters",
@@ -4083,7 +4083,7 @@
          "marketer":"Joseph Peters",
          "referralSource":"Wellstar North Fulton Hospital",
          "weekPeriod":"10/29/2023 - 11/25/2023",
-         "pendingSoc":1,
+         "naAtIntake":1,
          "processingInIntake":3
       },
       {
@@ -4091,15 +4091,16 @@
          "referralSource":"VA Medical Center",
          "weekPeriod":"10/29/2023 - 11/25/2023",
          "admitted":5,
-         "naAtIntake":3,
-         "processingInIntake":9
+         "naAtIntake":4,
+         "pendingSoc":1,
+         "processingInIntake":8
       },
       {
          "marketer":"Ron Frazier",
          "referralSource":"Grady Hospital",
          "weekPeriod":"10/29/2023 - 11/25/2023",
-         "pendingSoc":1,
-         "processingInIntake":2
+         "admitted":2,
+         "naAtIntake":1
       },
       {
          "marketer":"Ron Frazier",
