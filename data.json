@@ -6554,6 +6554,26 @@
       },
       {
          "weekPeriod":"10/29/2023 - 11/25/2023",
+         "socDate":"2023-11-06",
+         "patient":"PIERCE LAURA",
+         "insurance":"Medicare_Plan",
+         "referralSource":"Grady Hospital",
+         "referringPerson":"Rosemary Oke",
+         "marketer":"Ron Frazier",
+         "status":"Admitted"
+      },
+      {
+         "weekPeriod":"10/29/2023 - 11/25/2023",
+         "socDate":"2023-11-06",
+         "patient":"GREGORY PAMELA",
+         "insurance":"Medicare_Plan",
+         "referralSource":"Grady Hospital",
+         "referringPerson":"Femusu Dawonde",
+         "marketer":"Ron Frazier",
+         "status":"Admitted"
+      },
+      {
+         "weekPeriod":"10/29/2023 - 11/25/2023",
          "patient":"JONES GAYLON",
          "insurance":"Medicare_Plan",
          "referralSource":"VA Medical Center",
@@ -6614,6 +6634,36 @@
       },
       {
          "weekPeriod":"10/29/2023 - 11/25/2023",
+         "patient":"SALGADO MARIA",
+         "insurance":"Medicare_Plan",
+         "referralSource":"Grady Hospital",
+         "referringPerson":"Tamia Hurst",
+         "marketer":"Ron Frazier",
+         "status":"Non-Admit @ Intake",
+         "naReason":"Unable to Contact"
+      },
+      {
+         "weekPeriod":"10/29/2023 - 11/25/2023",
+         "patient":"FRAZIER DONNA",
+         "insurance":"VA - Optum_Plan",
+         "referralSource":"VA Medical Center",
+         "referringPerson":"Corrina Obright",
+         "marketer":"Katrina Ruffin",
+         "status":"Non-Admit @ Intake",
+         "naReason":"Refused Services"
+      },
+      {
+         "weekPeriod":"10/29/2023 - 11/25/2023",
+         "patient":"PENDLEY CHARLES",
+         "insurance":"Medicare_Plan",
+         "referralSource":"Wellstar North Fulton Hospital",
+         "referringPerson":"Williams Catherine F",
+         "marketer":"Joseph Peters",
+         "status":"Non-Admit @ Intake",
+         "naReason":"Refused Services"
+      },
+      {
+         "weekPeriod":"10/29/2023 - 11/25/2023",
          "socDate":"2023-11-10",
          "patient":"BROCKWAY NANCY",
          "insurance":"Medicare_Plan",
@@ -6624,32 +6674,32 @@
       },
       {
          "weekPeriod":"10/29/2023 - 11/25/2023",
-         "socDate":"2023-11-06",
-         "patient":"PENDLEY CHARLES",
-         "insurance":"Medicare_Plan",
-         "referralSource":"Wellstar North Fulton Hospital",
-         "referringPerson":"Williams Catherine F",
-         "marketer":"Joseph Peters",
-         "status":"Pending SOC"
-      },
-      {
-         "weekPeriod":"10/29/2023 - 11/25/2023",
-         "socDate":"2023-11-06",
-         "patient":"PIERCE LAURA",
-         "insurance":"Medicare_Plan",
-         "referralSource":"Grady Hospital",
-         "referringPerson":"Rosemary Oke",
-         "marketer":"Ron Frazier",
-         "status":"Pending SOC"
-      },
-      {
-         "weekPeriod":"10/29/2023 - 11/25/2023",
          "socDate":"2023-11-07",
          "patient":"SANDERS GERALD",
          "insurance":"Medicare_Plan",
          "referralSource":"Wellstar Primary Care Church Street",
          "referringPerson":"Jessica Thomason, PAN",
          "marketer":"Blake Bremer",
+         "status":"Pending SOC"
+      },
+      {
+         "weekPeriod":"10/29/2023 - 11/25/2023",
+         "socDate":"2023-11-08",
+         "patient":"KARAKHANIAN MARGARITA",
+         "insurance":"Medicare_Plan",
+         "referralSource":"Emory Johns Creek Hospital",
+         "referringPerson":"Natalie Thompson",
+         "marketer":"Joseph Peters",
+         "status":"Pending SOC"
+      },
+      {
+         "weekPeriod":"10/29/2023 - 11/25/2023",
+         "socDate":"2023-11-07",
+         "patient":"BATTLE KAREN",
+         "insurance":"VA - Optum_Plan",
+         "referralSource":"VA Medical Center",
+         "referringPerson":"Tara Taylor",
+         "marketer":"Katrina Ruffin",
          "status":"Pending SOC"
       },
       {
@@ -6699,15 +6749,6 @@
       },
       {
          "weekPeriod":"10/29/2023 - 11/25/2023",
-         "patient":"SALGADO MARIA",
-         "insurance":"Medicare_Plan",
-         "referralSource":"Grady Hospital",
-         "referringPerson":"Tamia Hurst",
-         "marketer":"Ron Frazier",
-         "status":"Processing in Intake"
-      },
-      {
-         "weekPeriod":"10/29/2023 - 11/25/2023",
          "patient":"HORTON SR RONNIE",
          "insurance":"Medicare_Plan",
          "referralSource":"VA Medical Center",
@@ -6740,15 +6781,6 @@
          "referralSource":"VA Medical Center",
          "referringPerson":"Corrina Obright",
          "marketer":"Katrina Ruffin",
-         "status":"Processing in Intake"
-      },
-      {
-         "weekPeriod":"10/29/2023 - 11/25/2023",
-         "patient":"GREGORY PAMELA",
-         "insurance":"Medicare_Plan",
-         "referralSource":"Grady Hospital",
-         "referringPerson":"Femusu Dawonde",
-         "marketer":"Ron Frazier",
          "status":"Processing in Intake"
       },
       {
@@ -6843,29 +6875,11 @@
       },
       {
          "weekPeriod":"10/29/2023 - 11/25/2023",
-         "patient":"WILKERSON MARY",
+         "patient":"WILKERSON MARY P",
          "insurance":"Medicare_Plan",
          "referralSource":"Visiting Nurse Health System / Hospice Atlanta",
          "referringPerson":"Yolanda Kagler",
          "marketer":"Joseph Peters",
-         "status":"Processing in Intake"
-      },
-      {
-         "weekPeriod":"10/29/2023 - 11/25/2023",
-         "patient":"KARAKHANIAN MARGARITA",
-         "insurance":"Medicare_Plan",
-         "referralSource":"Emory Johns Creek Hospital",
-         "referringPerson":"Natalie Thompson",
-         "marketer":"Joseph Peters",
-         "status":"Processing in Intake"
-      },
-      {
-         "weekPeriod":"10/29/2023 - 11/25/2023",
-         "patient":"FRAZIER DONNA",
-         "insurance":"VA - Optum_Plan",
-         "referralSource":"VA Medical Center",
-         "referringPerson":"Corrina Obright",
-         "marketer":"Katrina Ruffin",
          "status":"Processing in Intake"
       }
    ]
