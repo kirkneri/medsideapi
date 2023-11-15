@@ -4001,146 +4001,145 @@
          "naAtIntake":1
       },
       {
-         "marketer": "Admin",
-         "referralSource": "Faith Health Services of GA",
-         "weekPeriod": "10/29/2023 - 11/25/2023",
-         "naAtIntake": 1
-     },
-     {
-         "marketer": "Admin",
-         "referralSource": "Interim Home Health",
-         "weekPeriod": "10/29/2023 - 11/25/2023",
-         "processingInIntake": 1
-     },
-     {
-         "marketer": "Admin",
-         "referralSource": "Unknown",
-         "weekPeriod": "10/29/2023 - 11/25/2023",
-         "naAtIntake": 2,
-         "processingInIntake": 1
-     },
-     {
-         "marketer": "Blake Bremer",
-         "referralSource": "Laureate Medical Group",
-         "weekPeriod": "10/29/2023 - 11/25/2023",
-         "naAtIntake": 1
-     },
-     {
-         "marketer": "Blake Bremer",
-         "referralSource": "Resurgens Orthopedics Kennesaw",
-         "weekPeriod": "10/29/2023 - 11/25/2023",
-         "processingInIntake": 1
-     },
-     {
-         "marketer": "Blake Bremer",
-         "referralSource": "Urban Family Practice Associates",
-         "weekPeriod": "10/29/2023 - 11/25/2023",
-         "admitted": 1
-     },
-     {
-         "marketer": "Blake Bremer",
-         "referralSource": "Wellstar Kennestone Hospital",
-         "weekPeriod": "10/29/2023 - 11/25/2023",
-         "admitted": 1,
-         "naAtIntake": 2,
-         "pendingSoc": 1,
-         "processingInIntake": 1
-     },
-     {
-         "marketer": "Blake Bremer",
-         "referralSource": "Wellstar Neurology Marietta",
-         "weekPeriod": "10/29/2023 - 11/25/2023",
-         "processingInIntake": 1
-     },
-     {
-         "marketer": "Blake Bremer",
-         "referralSource": "Wellstar Palliative Medicine",
-         "weekPeriod": "10/29/2023 - 11/25/2023",
-         "pendingSoc": 1
-     },
-     {
-         "marketer": "Blake Bremer",
-         "referralSource": "Wellstar Paulding Hospital",
-         "weekPeriod": "10/29/2023 - 11/25/2023",
-         "admitted": 1
-     },
-     {
-         "marketer": "Blake Bremer",
-         "referralSource": "Wellstar Primary Care Church Street",
-         "weekPeriod": "10/29/2023 - 11/25/2023",
-         "pendingSoc": 1
-     },
-     {
-         "marketer": "Joseph Peters",
-         "referralSource": "Emory Johns Creek Hospital",
-         "weekPeriod": "10/29/2023 - 11/25/2023",
-         "admitted": 1
-     },
-     {
-         "marketer": "Joseph Peters",
-         "referralSource": "Northside Atlanta Hospital",
-         "weekPeriod": "10/29/2023 - 11/25/2023",
-         "naAtIntake": 1
-     },
-     {
-         "marketer": "Joseph Peters",
-         "referralSource": "Peachtree Orthopedics",
-         "weekPeriod": "10/29/2023 - 11/25/2023",
-         "pendingSoc": 1
-     },
-     {
-         "marketer": "Joseph Peters",
-         "referralSource": "Visiting Nurse Health System / Hospice Atlanta",
-         "weekPeriod": "10/29/2023 - 11/25/2023",
-         "processingInIntake": 1
-     },
-     {
-         "marketer": "Joseph Peters",
-         "referralSource": "Wellstar North Fulton Hospital",
-         "weekPeriod": "10/29/2023 - 11/25/2023",
-         "admitted": 2,
-         "naAtIntake": 1,
-         "processingInIntake": 2
-     },
-     {
-         "marketer": "Katrina Ruffin",
-         "referralSource": "Emory Decatur Hospital",
-         "weekPeriod": "10/29/2023 - 11/25/2023",
-         "processingInIntake": 1
-     },
-     {
-         "marketer": "Katrina Ruffin",
-         "referralSource": "Emory University Hospital",
-         "weekPeriod": "10/29/2023 - 11/25/2023",
-         "processingInIntake": 1
-     },
-     {
-         "marketer": "Katrina Ruffin",
-         "referralSource": "Park Central Family Practice",
-         "weekPeriod": "10/29/2023 - 11/25/2023",
-         "processingInIntake": 1
-     },
-     {
-         "marketer": "Katrina Ruffin",
-         "referralSource": "VA Medical Center",
-         "weekPeriod": "10/29/2023 - 11/25/2023",
-         "admitted": 7,
-         "naAtIntake": 5,
-         "pendingSoc": 2,
-         "processingInIntake": 9
-     },
-     {
-         "marketer": "Ron Frazier",
-         "referralSource": "Grady Hospital",
-         "weekPeriod": "10/29/2023 - 11/25/2023",
-         "admitted": 2,
-         "naAtIntake": 1
-     },
-     {
-         "marketer": "Ron Frazier",
-         "referralSource": "WellStar Douglas Hospital",
-         "weekPeriod": "10/29/2023 - 11/25/2023",
-         "processingInIntake": 1
-     }
+         "marketer":"Admin",
+         "referralSource":"Faith Health Services of GA",
+         "weekPeriod":"10/29/2023 - 11/25/2023",
+         "naAtIntake":1
+      },
+      {
+         "marketer":"Admin",
+         "referralSource":"Interim Home Health",
+         "weekPeriod":"10/29/2023 - 11/25/2023",
+         "naAtIntake":1
+      },
+      {
+         "marketer":"Admin",
+         "referralSource":"Unknown",
+         "weekPeriod":"10/29/2023 - 11/25/2023",
+         "naAtIntake":2,
+         "processingInIntake":1
+      },
+      {
+         "marketer":"Blake Bremer",
+         "referralSource":"Laureate Medical Group",
+         "weekPeriod":"10/29/2023 - 11/25/2023",
+         "naAtIntake":1
+      },
+      {
+         "marketer":"Blake Bremer",
+         "referralSource":"Resurgens Orthopedics Kennesaw",
+         "weekPeriod":"10/29/2023 - 11/25/2023",
+         "naAtIntake":1
+      },
+      {
+         "marketer":"Blake Bremer",
+         "referralSource":"Urban Family Practice Associates",
+         "weekPeriod":"10/29/2023 - 11/25/2023",
+         "admitted":1
+      },
+      {
+         "marketer":"Blake Bremer",
+         "referralSource":"Wellstar Kennestone Hospital",
+         "weekPeriod":"10/29/2023 - 11/25/2023",
+         "admitted":1,
+         "naAtIntake":3,
+         "processingInIntake":1
+      },
+      {
+         "marketer":"Blake Bremer",
+         "referralSource":"Wellstar Neurology Marietta",
+         "weekPeriod":"10/29/2023 - 11/25/2023",
+         "processingInIntake":1
+      },
+      {
+         "marketer":"Blake Bremer",
+         "referralSource":"Wellstar Palliative Medicine",
+         "weekPeriod":"10/29/2023 - 11/25/2023",
+         "pendingSoc":1
+      },
+      {
+         "marketer":"Blake Bremer",
+         "referralSource":"Wellstar Paulding Hospital",
+         "weekPeriod":"10/29/2023 - 11/25/2023",
+         "admitted":1
+      },
+      {
+         "marketer":"Blake Bremer",
+         "referralSource":"Wellstar Primary Care Church Street",
+         "weekPeriod":"10/29/2023 - 11/25/2023",
+         "pendingSoc":1
+      },
+      {
+         "marketer":"Joseph Peters",
+         "referralSource":"Emory Johns Creek Hospital",
+         "weekPeriod":"10/29/2023 - 11/25/2023",
+         "admitted":1
+      },
+      {
+         "marketer":"Joseph Peters",
+         "referralSource":"Northside Atlanta Hospital",
+         "weekPeriod":"10/29/2023 - 11/25/2023",
+         "naAtIntake":1
+      },
+      {
+         "marketer":"Joseph Peters",
+         "referralSource":"Peachtree Orthopedics",
+         "weekPeriod":"10/29/2023 - 11/25/2023",
+         "admitted":1
+      },
+      {
+         "marketer":"Joseph Peters",
+         "referralSource":"Visiting Nurse Health System / Hospice Atlanta",
+         "weekPeriod":"10/29/2023 - 11/25/2023",
+         "pendingSoc":1
+      },
+      {
+         "marketer":"Joseph Peters",
+         "referralSource":"Wellstar North Fulton Hospital",
+         "weekPeriod":"10/29/2023 - 11/25/2023",
+         "admitted":2,
+         "naAtIntake":2,
+         "processingInIntake":2
+      },
+      {
+         "marketer":"Katrina Ruffin",
+         "referralSource":"Emory Decatur Hospital",
+         "weekPeriod":"10/29/2023 - 11/25/2023",
+         "processingInIntake":1
+      },
+      {
+         "marketer":"Katrina Ruffin",
+         "referralSource":"Emory University Hospital",
+         "weekPeriod":"10/29/2023 - 11/25/2023",
+         "processingInIntake":1
+      },
+      {
+         "marketer":"Katrina Ruffin",
+         "referralSource":"Park Central Family Practice",
+         "weekPeriod":"10/29/2023 - 11/25/2023",
+         "admitted":1
+      },
+      {
+         "marketer":"Katrina Ruffin",
+         "referralSource":"VA Medical Center",
+         "weekPeriod":"10/29/2023 - 11/25/2023",
+         "admitted":8,
+         "naAtIntake":7,
+         "pendingSoc":2,
+         "processingInIntake":7
+      },
+      {
+         "marketer":"Ron Frazier",
+         "referralSource":"Grady Hospital",
+         "weekPeriod":"10/29/2023 - 11/25/2023",
+         "admitted":2,
+         "naAtIntake":1
+      },
+      {
+         "marketer":"Ron Frazier",
+         "referralSource":"WellStar Douglas Hospital",
+         "weekPeriod":"10/29/2023 - 11/25/2023",
+         "processingInIntake":1
+      }
    ]
 }
