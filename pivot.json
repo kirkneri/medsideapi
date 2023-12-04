@@ -4141,6 +4141,99 @@
       "referralSource": "WellStar Douglas Hospital",
       "weekPeriod": "10/29/2023 - 11/25/2023",
       "naAtIntake": 1
+    },
+    {
+        "marketer": "Admin",
+        "referralSource": "Unknown",
+        "weekPeriod": "11/26/2023 - 12/23/2023",
+        "admitted": 1,
+        "processingInIntake": 1
+    },
+    {
+        "marketer": "Blake Bremer",
+        "referralSource": "Wellstar Cobb Hospital",
+        "weekPeriod": "11/26/2023 - 12/23/2023",
+        "processingInIntake": 1
+    },
+    {
+        "marketer": "Blake Bremer",
+        "referralSource": "Wellstar Kennestone Hospital",
+        "weekPeriod": "11/26/2023 - 12/23/2023",
+        "admitted": 1
+    },
+    {
+        "marketer": "Blake Bremer",
+        "referralSource": "Wellstar Primary Care East Cobb Medical",
+        "weekPeriod": "11/26/2023 - 12/23/2023",
+        "admitted": 1
+    },
+    {
+        "marketer": "Joseph Peters",
+        "referralSource": "AG Family Medicine Duluth",
+        "weekPeriod": "11/26/2023 - 12/23/2023",
+        "processingInIntake": 1
+    },
+    {
+        "marketer": "Joseph Peters",
+        "referralSource": "Northside Atlanta Hospital",
+        "weekPeriod": "11/26/2023 - 12/23/2023",
+        "admitted": 1
+    },
+    {
+        "marketer": "Joseph Peters",
+        "referralSource": "Peachtree Orthopedics",
+        "weekPeriod": "11/26/2023 - 12/23/2023",
+        "pendingSoc": 1
+    },
+    {
+        "marketer": "Joseph Peters",
+        "referralSource": "Visiting Nurse Health System / Hospice Atlanta",
+        "weekPeriod": "11/26/2023 - 12/23/2023",
+        "admitted": 1
+    },
+    {
+        "marketer": "Joseph Peters",
+        "referralSource": "Wellstar North Fulton Hospital",
+        "weekPeriod": "11/26/2023 - 12/23/2023",
+        "processingInIntake": 2
+    },
+    {
+        "marketer": "Katrina Ruffin",
+        "referralSource": "Emory Decatur Hospital",
+        "weekPeriod": "11/26/2023 - 12/23/2023",
+        "processingInIntake": 1
+    },
+    {
+        "marketer": "Katrina Ruffin",
+        "referralSource": "Grady Hospital",
+        "weekPeriod": "11/26/2023 - 12/23/2023",
+        "pendingSoc": 1
+    },
+    {
+        "marketer": "Katrina Ruffin",
+        "referralSource": "VA Medical Center",
+        "weekPeriod": "11/26/2023 - 12/23/2023",
+        "admitted": 4,
+        "processingInIntake": 6
+    },
+    {
+        "marketer": "Ron Frazier",
+        "referralSource": "Emory Rehab Hospital",
+        "weekPeriod": "11/26/2023 - 12/23/2023",
+        "admitted": 1,
+        "processingInIntake": 1
+    },
+    {
+        "marketer": "Ron Frazier",
+        "referralSource": "Grady Hospital",
+        "weekPeriod": "11/26/2023 - 12/23/2023",
+        "processingInIntake": 1
+    },
+    {
+        "marketer": "Ron Frazier",
+        "referralSource": "Piedmont Atlanta (WC Center) Hospital",
+        "weekPeriod": "11/26/2023 - 12/23/2023",
+        "processingInIntake": 1
     }
   ]
 }
