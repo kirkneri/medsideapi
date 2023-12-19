@@ -7115,6 +7115,16 @@
     {
         "weekPeriod": "11/26/2023 - 12/23/2023",
         "socDate": "2023-11-28",
+        "patient": "SHINN ELTON",
+        "insurance": "Medicare_Plan",
+        "referralSource": "VA Medical Center",
+        "referringPerson": "Tangela Sturdivant",
+        "marketer": "Katrina Ruffin",
+        "status": "Admitted"
+    },
+    {
+        "weekPeriod": "11/26/2023 - 12/23/2023",
+        "socDate": "2023-11-28",
         "patient": "KENNEDY STEPHEN",
         "insurance": "VA - Optum_Plan",
         "referralSource": "VA Medical Center",
@@ -7264,6 +7274,86 @@
     },
     {
         "weekPeriod": "11/26/2023 - 12/23/2023",
+        "socDate": "2023-12-14",
+        "patient": "RIDLEY EMANUEL",
+        "insurance": "VA - Optum_Plan",
+        "referralSource": "VA Medical Center",
+        "referringPerson": "Janet Richards",
+        "marketer": "Katrina Ruffin",
+        "status": "Admitted"
+    },
+    {
+        "weekPeriod": "11/26/2023 - 12/23/2023",
+        "socDate": "2023-12-13",
+        "patient": "WALKER DIANE",
+        "insurance": "Medicare_Plan",
+        "referralSource": "Peachtree Orthopedics",
+        "referringPerson": "Leslie Pennington",
+        "marketer": "Joseph Peters",
+        "status": "Admitted"
+    },
+    {
+        "weekPeriod": "11/26/2023 - 12/23/2023",
+        "socDate": "2023-12-13",
+        "patient": "HUNTER BETTY",
+        "insurance": "Medicare_Plan",
+        "referralSource": "VA Medical Center",
+        "referringPerson": "Corrina Obright",
+        "marketer": "Katrina Ruffin",
+        "status": "Admitted"
+    },
+    {
+        "weekPeriod": "11/26/2023 - 12/23/2023",
+        "socDate": "2023-12-14",
+        "patient": "WRIGHT ANITA",
+        "insurance": "Medicare_Plan",
+        "referralSource": "Kennestone Family Medicine",
+        "referringPerson": "Sam Peng MD",
+        "marketer": "Blake Bremer",
+        "status": "Admitted"
+    },
+    {
+        "weekPeriod": "11/26/2023 - 12/23/2023",
+        "socDate": "2023-12-15",
+        "patient": "CROMLEY CAROL",
+        "insurance": "Medicare_Plan",
+        "referralSource": "Grady Hospital",
+        "referringPerson": "Tracy Bolton",
+        "marketer": "Katrina Ruffin",
+        "status": "Admitted"
+    },
+    {
+        "weekPeriod": "11/26/2023 - 12/23/2023",
+        "socDate": "2023-12-15",
+        "patient": "DZAKHOVA ELVIRA",
+        "insurance": "Medicare_Plan",
+        "referralSource": "Georgia Clinic, PC",
+        "referringPerson": "Galina Vayner, MD",
+        "marketer": "Admin",
+        "status": "Admitted"
+    },
+    {
+        "weekPeriod": "11/26/2023 - 12/23/2023",
+        "socDate": "2023-12-18",
+        "patient": "BROOKS BEVERLY",
+        "insurance": "Medicare_Plan",
+        "referralSource": "1st Care Management",
+        "referringPerson": "Samson Elimian",
+        "marketer": "Admin",
+        "status": "Admitted"
+    },
+    {
+        "weekPeriod": "11/26/2023 - 12/23/2023",
+        "socDate": "2023-12-18",
+        "patient": "MCCRAY RAYMOND",
+        "insurance": "Medicare_Plan",
+        "referralSource": "Roselane Health & Rehab by Harborview",
+        "referringPerson": "Yvonne Allen-Francis",
+        "marketer": "Blake Bremer",
+        "status": "Admitted"
+    },
+    {
+        "weekPeriod": "11/26/2023 - 12/23/2023",
         "patient": "THOMPSON BRUCE",
         "insurance": "VA - Optum_Plan",
         "referralSource": "VA Medical Center",
@@ -7324,43 +7414,23 @@
     },
     {
         "weekPeriod": "11/26/2023 - 12/23/2023",
-        "socDate": "2023-12-14",
-        "patient": "RIDLEY EMANUEL",
+        "patient": "SPARROW EUGENE",
         "insurance": "VA - Optum_Plan",
         "referralSource": "VA Medical Center",
-        "referringPerson": "Janet Richards",
+        "referringPerson": "Tangela Sturdivant",
         "marketer": "Katrina Ruffin",
-        "status": "Pending SOC"
+        "status": "Non-Admit @ Intake",
+        "naReason": "Refused Services"
     },
     {
         "weekPeriod": "11/26/2023 - 12/23/2023",
-        "socDate": "2023-12-12",
-        "patient": "CROMLEY CAROL",
-        "insurance": "Medicare_Plan",
-        "referralSource": "Grady Hospital",
-        "referringPerson": "Tracy Bolton",
-        "marketer": "Katrina Ruffin",
-        "status": "Pending SOC"
-    },
-    {
-        "weekPeriod": "11/26/2023 - 12/23/2023",
-        "socDate": "2023-12-13",
-        "patient": "WALKER DIANE",
-        "insurance": "Medicare_Plan",
-        "referralSource": "Peachtree Orthopedics",
-        "referringPerson": "Leslie Pennington",
-        "marketer": "Joseph Peters",
-        "status": "Pending SOC"
-    },
-    {
-        "weekPeriod": "11/26/2023 - 12/23/2023",
-        "socDate": "2023-12-13",
-        "patient": "HUNTER BETTY",
-        "insurance": "Medicare_Plan",
+        "patient": "PASS SIDNEY",
+        "insurance": "VA - Optum_Plan",
         "referralSource": "VA Medical Center",
-        "referringPerson": "Corrina Obright",
+        "referringPerson": "Tara Taylor",
         "marketer": "Katrina Ruffin",
-        "status": "Pending SOC"
+        "status": "Non-Admit @ Intake",
+        "naReason": "Cancelled by Referral Source"
     },
     {
         "weekPeriod": "11/26/2023 - 12/23/2023",
@@ -7369,7 +7439,28 @@
         "referralSource": "Wellstar North Fulton Hospital",
         "referringPerson": "Ricardo Duran",
         "marketer": "Joseph Peters",
-        "status": "Processing in Intake"
+        "status": "Non-Admit @ Intake",
+        "naReason": "Refused Services"
+    },
+    {
+        "weekPeriod": "11/26/2023 - 12/23/2023",
+        "patient": "GORE REBECCA",
+        "insurance": "Medicare_Plan",
+        "referralSource": "Piedmont Atlanta (WC Center) Hospital",
+        "referringPerson": "Vater Harris",
+        "marketer": "Ron Frazier",
+        "status": "Non-Admit @ Intake",
+        "naReason": "Unable to Contact"
+    },
+    {
+        "weekPeriod": "11/26/2023 - 12/23/2023",
+        "socDate": "2023-12-20",
+        "patient": "HURT CARLTON",
+        "insurance": "VA - Optum_Plan",
+        "referralSource": "VA Medical Center",
+        "referringPerson": "Corrina Obright",
+        "marketer": "Katrina Ruffin",
+        "status": "Pending SOC"
     },
     {
         "weekPeriod": "11/26/2023 - 12/23/2023",
@@ -7400,38 +7491,11 @@
     },
     {
         "weekPeriod": "11/26/2023 - 12/23/2023",
-        "patient": "SPARROW EUGENE",
-        "insurance": "VA - Optum_Plan",
-        "referralSource": "VA Medical Center",
-        "referringPerson": "Tangela Sturdivant",
-        "marketer": "Katrina Ruffin",
-        "status": "Processing in Intake"
-    },
-    {
-        "weekPeriod": "11/26/2023 - 12/23/2023",
         "patient": "LONDON ELOISE",
         "insurance": "Medicare_Plan",
         "referralSource": "Wellstar North Fulton Hospital",
         "referringPerson": "Sandra Jennings, PAN",
         "marketer": "Joseph Peters",
-        "status": "Processing in Intake"
-    },
-    {
-        "weekPeriod": "11/26/2023 - 12/23/2023",
-        "patient": "GORE REBECCA",
-        "insurance": "Medicare_Plan",
-        "referralSource": "Piedmont Atlanta (WC Center) Hospital",
-        "referringPerson": "Vater Harris",
-        "marketer": "Ron Frazier",
-        "status": "Processing in Intake"
-    },
-    {
-        "weekPeriod": "11/26/2023 - 12/23/2023",
-        "patient": "DZAKHOVA ELVIRA",
-        "insurance": "Medicare_Plan",
-        "referralSource": "Georgia Clinic, PC",
-        "referringPerson": "Galina Vayner, MD",
-        "marketer": "Admin",
         "status": "Processing in Intake"
     },
     {
@@ -7449,15 +7513,6 @@
         "insurance": "VA - Optum_Plan",
         "referralSource": "VA Medical Center",
         "referringPerson": "Corrina Obright",
-        "marketer": "Katrina Ruffin",
-        "status": "Processing in Intake"
-    },
-    {
-        "weekPeriod": "11/26/2023 - 12/23/2023",
-        "patient": "FEINREICH HANNAH",
-        "insurance": "Medicare_Plan",
-        "referralSource": "Emory University Hospital",
-        "referringPerson": "Anna Mayle",
         "marketer": "Katrina Ruffin",
         "status": "Processing in Intake"
     },
@@ -7481,7 +7536,7 @@
     },
     {
         "weekPeriod": "11/26/2023 - 12/23/2023",
-        "patient": "PASS SIDNEY",
+        "patient": "BEAVER BILLY",
         "insurance": "VA - Optum_Plan",
         "referralSource": "VA Medical Center",
         "referringPerson": "Tara Taylor",
@@ -7490,10 +7545,64 @@
     },
     {
         "weekPeriod": "11/26/2023 - 12/23/2023",
-        "patient": "BEAVER BILLY",
-        "insurance": "VA - Optum_Plan",
+        "patient": "MAYEBE ANA TERESA",
+        "insurance": "Medicare_Plan",
+        "referralSource": "WellStar Douglas Hospital",
+        "referringPerson": "Jacqueline (Jackie) Brown, PAN",
+        "marketer": "Admin",
+        "status": "Processing in Intake"
+    },
+    {
+        "weekPeriod": "11/26/2023 - 12/23/2023",
+        "patient": "RESSEQUE VALENTINA",
+        "insurance": "Medicare_Plan",
+        "referralSource": "Wellstar Orthopedic and Sports Medicine",
+        "referringPerson": "Jessica Thomason, PAN",
+        "marketer": "Blake Bremer",
+        "status": "Processing in Intake"
+    },
+    {
+        "weekPeriod": "11/26/2023 - 12/23/2023",
+        "patient": "ASHBY LESTER",
+        "insurance": "Medicare_Plan",
+        "referralSource": "VA Medical Center",
+        "referringPerson": "Tangela Sturdivant",
+        "marketer": "Katrina Ruffin",
+        "status": "Processing in Intake"
+    },
+    {
+        "weekPeriod": "11/26/2023 - 12/23/2023",
+        "patient": "KROMER KLAUSPETER",
+        "insurance": "Medicare_Plan",
         "referralSource": "VA Medical Center",
         "referringPerson": "Tara Taylor",
+        "marketer": "Katrina Ruffin",
+        "status": "Processing in Intake"
+    },
+    {
+        "weekPeriod": "11/26/2023 - 12/23/2023",
+        "patient": "POWELL KEVIN",
+        "insurance": "VA - Optum_Plan",
+        "referralSource": "VA Medical Center",
+        "referringPerson": "Tangela Sturdivant",
+        "marketer": "Katrina Ruffin",
+        "status": "Processing in Intake"
+    },
+    {
+        "weekPeriod": "11/26/2023 - 12/23/2023",
+        "patient": "HINDSMAN RICHARD",
+        "insurance": "VA - Optum_Plan",
+        "referralSource": "VA Medical Center",
+        "referringPerson": "Janet Richards",
+        "marketer": "Katrina Ruffin",
+        "status": "Processing in Intake"
+    },
+    {
+        "weekPeriod": "11/26/2023 - 12/23/2023",
+        "patient": "HOWARD J B",
+        "insurance": "VA - Optum_Plan",
+        "referralSource": "VA Medical Center",
+        "referringPerson": "Corrina Obright",
         "marketer": "Katrina Ruffin",
         "status": "Processing in Intake"
     }
