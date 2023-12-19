@@ -4423,6 +4423,12 @@
     },
     {
         "marketer": "Admin",
+        "referralSource": "1st Care Management",
+        "weekPeriod": "11/26/2023 - 12/23/2023",
+        "admitted": 1
+    },
+    {
+        "marketer": "Admin",
         "referralSource": "Baptist Health Jacksonville",
         "weekPeriod": "11/26/2023 - 12/23/2023",
         "naAtIntake": 1
@@ -4431,7 +4437,7 @@
         "marketer": "Admin",
         "referralSource": "Georgia Clinic, PC",
         "weekPeriod": "11/26/2023 - 12/23/2023",
-        "processingInIntake": 1
+        "admitted": 1
     },
     {
         "marketer": "Admin",
@@ -4454,8 +4460,20 @@
         "processingInIntake": 1
     },
     {
+        "marketer": "Admin",
+        "referralSource": "WellStar Douglas Hospital",
+        "weekPeriod": "11/26/2023 - 12/23/2023",
+        "processingInIntake": 1
+    },
+    {
         "marketer": "Blake Bremer",
         "referralSource": "Interim Home Health",
+        "weekPeriod": "11/26/2023 - 12/23/2023",
+        "admitted": 1
+    },
+    {
+        "marketer": "Blake Bremer",
+        "referralSource": "Kennestone Family Medicine",
         "weekPeriod": "11/26/2023 - 12/23/2023",
         "admitted": 1
     },
@@ -4464,6 +4482,12 @@
         "referralSource": "Northeast Georgia Medical Center Gainesville",
         "weekPeriod": "11/26/2023 - 12/23/2023",
         "naAtIntake": 1
+    },
+    {
+        "marketer": "Blake Bremer",
+        "referralSource": "Roselane Health & Rehab by Harborview",
+        "weekPeriod": "11/26/2023 - 12/23/2023",
+        "admitted": 1
     },
     {
         "marketer": "Blake Bremer",
@@ -4476,6 +4500,12 @@
         "referralSource": "Wellstar Kennestone Hospital",
         "weekPeriod": "11/26/2023 - 12/23/2023",
         "admitted": 1
+    },
+    {
+        "marketer": "Blake Bremer",
+        "referralSource": "Wellstar Orthopedic and Sports Medicine",
+        "weekPeriod": "11/26/2023 - 12/23/2023",
+        "processingInIntake": 1
     },
     {
         "marketer": "Blake Bremer",
@@ -4499,7 +4529,7 @@
         "marketer": "Joseph Peters",
         "referralSource": "Peachtree Orthopedics",
         "weekPeriod": "11/26/2023 - 12/23/2023",
-        "pendingSoc": 1
+        "admitted": 1
     },
     {
         "marketer": "Joseph Peters",
@@ -4511,7 +4541,8 @@
         "marketer": "Joseph Peters",
         "referralSource": "Wellstar North Fulton Hospital",
         "weekPeriod": "11/26/2023 - 12/23/2023",
-        "processingInIntake": 2
+        "naAtIntake": 1,
+        "processingInIntake": 1
     },
     {
         "marketer": "Katrina Ruffin",
@@ -4521,24 +4552,18 @@
     },
     {
         "marketer": "Katrina Ruffin",
-        "referralSource": "Emory University Hospital",
-        "weekPeriod": "11/26/2023 - 12/23/2023",
-        "processingInIntake": 1
-    },
-    {
-        "marketer": "Katrina Ruffin",
         "referralSource": "Grady Hospital",
         "weekPeriod": "11/26/2023 - 12/23/2023",
-        "pendingSoc": 1
+        "admitted": 1
     },
     {
         "marketer": "Katrina Ruffin",
         "referralSource": "VA Medical Center",
         "weekPeriod": "11/26/2023 - 12/23/2023",
-        "admitted": 6,
-        "naAtIntake": 2,
-        "pendingSoc": 2,
-        "processingInIntake": 6
+        "admitted": 8,
+        "naAtIntake": 4,
+        "pendingSoc": 1,
+        "processingInIntake": 9
     },
     {
         "marketer": "Ron Frazier",
@@ -4557,7 +4582,7 @@
         "marketer": "Ron Frazier",
         "referralSource": "Piedmont Atlanta (WC Center) Hospital",
         "weekPeriod": "11/26/2023 - 12/23/2023",
-        "processingInIntake": 1
+        "naAtIntake": 1
     }
   ]
 }
