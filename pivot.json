@@ -4429,6 +4429,12 @@
     },
     {
         "marketer": "Admin",
+        "referralSource": "Admin",
+        "weekPeriod": "11/26/2023 - 12/23/2023",
+        "naAtIntake": 1
+    },
+    {
+        "marketer": "Admin",
         "referralSource": "Baptist Health Jacksonville",
         "weekPeriod": "11/26/2023 - 12/23/2023",
         "naAtIntake": 1
@@ -4441,12 +4447,6 @@
     },
     {
         "marketer": "Admin",
-        "referralSource": "Grady Hospital",
-        "weekPeriod": "11/26/2023 - 12/23/2023",
-        "processingInIntake": 1
-    },
-    {
-        "marketer": "Admin",
         "referralSource": "Southwest Atlanta Nephrology",
         "weekPeriod": "11/26/2023 - 12/23/2023",
         "admitted": 1
@@ -4456,14 +4456,7 @@
         "referralSource": "Unknown",
         "weekPeriod": "11/26/2023 - 12/23/2023",
         "admitted": 1,
-        "naAtIntake": 1,
-        "processingInIntake": 1
-    },
-    {
-        "marketer": "Admin",
-        "referralSource": "WellStar Douglas Hospital",
-        "weekPeriod": "11/26/2023 - 12/23/2023",
-        "processingInIntake": 1
+        "naAtIntake": 2
     },
     {
         "marketer": "Blake Bremer",
@@ -4487,7 +4480,8 @@
         "marketer": "Blake Bremer",
         "referralSource": "Roselane Health & Rehab by Harborview",
         "weekPeriod": "11/26/2023 - 12/23/2023",
-        "admitted": 1
+        "admitted": 1,
+        "naAtIntake": 1
     },
     {
         "marketer": "Blake Bremer",
@@ -4505,7 +4499,7 @@
         "marketer": "Blake Bremer",
         "referralSource": "Wellstar Orthopedic and Sports Medicine",
         "weekPeriod": "11/26/2023 - 12/23/2023",
-        "processingInIntake": 1
+        "admitted": 1
     },
     {
         "marketer": "Blake Bremer",
@@ -4541,14 +4535,7 @@
         "marketer": "Joseph Peters",
         "referralSource": "Wellstar North Fulton Hospital",
         "weekPeriod": "11/26/2023 - 12/23/2023",
-        "naAtIntake": 1,
-        "processingInIntake": 1
-    },
-    {
-        "marketer": "Katrina Ruffin",
-        "referralSource": "Emory Decatur Hospital",
-        "weekPeriod": "11/26/2023 - 12/23/2023",
-        "processingInIntake": 1
+        "naAtIntake": 1
     },
     {
         "marketer": "Katrina Ruffin",
@@ -4561,9 +4548,7 @@
         "referralSource": "VA Medical Center",
         "weekPeriod": "11/26/2023 - 12/23/2023",
         "admitted": 8,
-        "naAtIntake": 4,
-        "pendingSoc": 1,
-        "processingInIntake": 9
+        "naAtIntake": 4
     },
     {
         "marketer": "Ron Frazier",
@@ -4571,12 +4556,6 @@
         "weekPeriod": "11/26/2023 - 12/23/2023",
         "admitted": 1,
         "naAtIntake": 1
-    },
-    {
-        "marketer": "Ron Frazier",
-        "referralSource": "Grady Hospital",
-        "weekPeriod": "11/26/2023 - 12/23/2023",
-        "processingInIntake": 1
     },
     {
         "marketer": "Ron Frazier",
