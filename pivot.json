@@ -4562,6 +4562,100 @@
         "referralSource": "Piedmont Atlanta (WC Center) Hospital",
         "weekPeriod": "11/26/2023 - 12/23/2023",
         "naAtIntake": 1
+    },
+    {
+        "marketer": "Admin",
+        "referralSource": "Admin",
+        "weekPeriod": "12/24/2023 - 01/21/2024",
+        "admitted": 1,
+        "pendingSoc": 1
+    },
+    {
+        "marketer": "Admin",
+        "referralSource": "Grady Hospital",
+        "weekPeriod": "12/24/2023 - 01/21/2024",
+        "naAtSoc": 1
+    },
+    {
+        "marketer": "Admin",
+        "referralSource": "Paragon infusion center",
+        "weekPeriod": "12/24/2023 - 01/21/2024",
+        "processingInIntake": 1
+    },
+    {
+        "marketer": "Admin",
+        "referralSource": "Peachtree Orthopedics",
+        "weekPeriod": "12/24/2023 - 01/21/2024",
+        "pendingSoc": 2
+    },
+    {
+        "marketer": "Admin",
+        "referralSource": "Pleasant Hill Family Medicine",
+        "weekPeriod": "12/24/2023 - 01/21/2024",
+        "admitted": 1
+    },
+    {
+        "marketer": "Admin",
+        "referralSource": "Unknown",
+        "weekPeriod": "12/24/2023 - 01/21/2024",
+        "processingInIntake": 1
+    },
+    {
+        "marketer": "Admin",
+        "referralSource": "WellStar Douglas Hospital",
+        "weekPeriod": "12/24/2023 - 01/21/2024",
+        "naAtIntake": 1
+    },
+    {
+        "marketer": "Blake Bremer",
+        "referralSource": "Interim Home Health",
+        "weekPeriod": "12/24/2023 - 01/21/2024",
+        "pendingSoc": 1
+    },
+    {
+        "marketer": "Blake Bremer",
+        "referralSource": "Roselane Health & Rehab by Harborview",
+        "weekPeriod": "12/24/2023 - 01/21/2024",
+        "processingInIntake": 1
+    },
+    {
+        "marketer": "Blake Bremer",
+        "referralSource": "Wellstar Kennestone Hospital",
+        "weekPeriod": "12/24/2023 - 01/21/2024",
+        "processingInIntake": 2
+    },
+    {
+        "marketer": "Blake Bremer",
+        "referralSource": "Wellstar Primary Care Austell",
+        "weekPeriod": "12/24/2023 - 01/21/2024",
+        "admitted": 1
+    },
+    {
+        "marketer": "Blake Bremer",
+        "referralSource": "Wellstar Primary Care White Circle Marietta",
+        "weekPeriod": "12/24/2023 - 01/21/2024",
+        "pendingSoc": 1
+    },
+    {
+        "marketer": "Katrina Ruffin",
+        "referralSource": "Emory Decatur Hospital",
+        "weekPeriod": "12/24/2023 - 01/21/2024",
+        "naAtIntake": 1
+    },
+    {
+        "marketer": "Katrina Ruffin",
+        "referralSource": "VA Medical Center",
+        "weekPeriod": "12/24/2023 - 01/21/2024",
+        "admitted": 2,
+        "naAtIntake": 2,
+        "pendingSoc": 4,
+        "processingInIntake": 5
+    },
+    {
+        "marketer": "Ron Frazier",
+        "referralSource": "Grady Hospital",
+        "weekPeriod": "12/24/2023 - 01/21/2024",
+        "processingInIntake": 1
     }
   ]
 }
